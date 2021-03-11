@@ -5,7 +5,7 @@ setup(
     packages=find_packages(include=[
         'rapyos'
         ]),
-    version='0.1.0',
+    version='0.1.1',
     description='My first Python library',
     author='Oscar Huarcaya',
     license='MIT',
